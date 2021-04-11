@@ -1,0 +1,5 @@
+2048
+build/
+src/glfw-3.2.1/
+*CMakeFiles/*
+CMake*ache*

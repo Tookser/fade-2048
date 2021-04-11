@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2048.dir/main.cpp.o  -o 2048 ../display/libdisplay_lib.a ../engine/libengine_lib.a ../motor/libmotor_lib.a ../display/libdisplay_lib.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 ../engine/libengine_lib.a 

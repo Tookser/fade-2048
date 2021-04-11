@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2048_ut.dir/2048_ut.cpp.o  -o 2048_ut ../engine/libengine_lib.a ../display/libdisplay_lib.a ../lib/libgtestd.a ../lib/libgtest_maind.a ../lib/libgmockd.a ../lib/libgmock_maind.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 ../lib/libgmockd.a ../lib/libgtestd.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmotor_lib.a  CMakeFiles/motor_lib.dir/motor.cpp.o
+/usr/bin/ranlib libmotor_lib.a

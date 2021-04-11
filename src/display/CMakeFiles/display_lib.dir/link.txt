@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdisplay_lib.a  CMakeFiles/display_lib.dir/display.cpp.o CMakeFiles/display_lib.dir/lodepng.cpp.o CMakeFiles/display_lib.dir/view.cpp.o
+/usr/bin/ranlib libdisplay_lib.a

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scow/Desktop/2048_template/src/engine/engine.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+utility
+-
+unordered_set
+-
+stdexcept
+-
+assert.h
+-
+cstdlib
+-
+ctime
+-
+engine.h
+/home/scow/Desktop/2048_template/src/engine/engine.h
+
+/home/scow/Desktop/2048_template/src/engine/engine.h
+utility
+-
+vector
+-
+optional
+-
+
